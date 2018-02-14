@@ -1,0 +1,39 @@
+
+
+.munchkinCounter{
+/** Position & Size **/
+width: 95%;
+table-layout:fixed;	
+margin-left:auto; 
+margin-right:auto;
+
+/** Text Attributes **/
+font-family:verdana;
+text-transform:initial;
+color:white;
+text-align:center; 
+
+}
+
+table {
+	/** Position & Size **/
+	height: 80px;
+	border-spacing:0px;	
+	margin-bottom:8px;
+	
+	/** Text Attributes **/
+	font-weight: 900;
+	font-size:25pt;
+}
+
+th {
+	/** Position & Size **/
+	 height:40px;
+	 
+	/** Text Attributes **/
+	 font-weight: 500;
+	 font-size:14pt;	 
+}
+html, body{
+    background-color:#161616;
+}
